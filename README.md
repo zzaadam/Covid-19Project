@@ -1,4 +1,5 @@
-#Objectives:
+##Objectives
+
 The primary objective was to analyze the COVID-19 death statistics dataset to understand the impact of the pandemic across different countries and regions. Specific goals included:
 Calculating the likelihood of dying from COVID-19 in different locations.
 Determining the percentage of the population infected in various countries.
