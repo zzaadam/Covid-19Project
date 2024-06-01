@@ -5,7 +5,7 @@ Calculating the likelihood of dying from COVID-19 in different locations.
 Determining the percentage of the population infected in various countries.
 Identifying countries and continents with the highest infection and death rates.
 Analyzing the global death percentage over time.
-Evaluating the progress of vaccination campaigns across different locations.
+
 
 # Methodology:
 The analysis was performed using SQL, a powerful language for querying and manipulating large datasets. The following steps were taken:
